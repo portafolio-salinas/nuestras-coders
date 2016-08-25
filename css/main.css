@@ -1,0 +1,43 @@
+.caja {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	
+}
+p {
+	color: #FFFFFF;
+	position: absolute;
+	bottom: 0;
+	right: 0;	
+}
+hr {
+	width: 70px;
+	margin-left: 0%;
+}
+.fotouno {
+	background: url(../img/profile-1.png);
+
+}
+.fotodos {
+	background: url(../img/profile-2.png);
+	left: 250px;
+
+}
+.fototres {
+	background: url(../img/profile-3.png);
+	left: 500px;
+}
+.fotocuatro {
+	background: url(../img/profile-4.png);
+	top: 300px;
+ }
+ .fotocinco {
+ 	background: url(../img/profile-5.png);
+ 	left: 250px;
+ 	top: 300px;
+ }
+ .fotoseis {
+ 	background: url(../img/profile-6.png);
+ 	left: 500px;
+ 	top: 300px;
+ }
